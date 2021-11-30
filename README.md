@@ -8,6 +8,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="./image.gif">
 </a>   
  
+
 * 🔭 I’m currently working on **Web Development && Machine Learning**
 * 🌱 I’m currently learning **Web Developement and Competitive Programming**
 * 👯 I’m looking to collaborate on **Web Developement Projects**
@@ -15,7 +16,7 @@
 * 💬 Ask me about Anything [here](mailto:pratik.mcs20.du@gmail.com)! I am happy to help.
 * 😄 Pronouns : **He/Him/His**
 * ⚡ Fun fact : **I love to write in my free time..✍***
-* <img src="./house.png" width="20px" height="20px"/>  Hogwarts House : **Gryffindor** <img width="20px" height="20px" src="./Gryffindor.png">
+
 <br />
 <br />  
 <h2 align="center">Connect with me:</h2>
@@ -75,14 +76,12 @@
 
 <p align="center">
   <a href="https://github.com/prateikjena">
-
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=prateikjena&show_icons=true&locale=en&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" alt="prateikjena" />
 
   </a>
   <br />
   <br />
   <a href="https://github.com/prateikjena">
-
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateikjena&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 
   </a>
